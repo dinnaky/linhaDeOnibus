@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="github/preview.jpg" alt="projeto BusFinder">
+  <img src="github/preview.png" alt="projeto BusFinder">
 </p>
 
 ## 🚀 Tecnologias
